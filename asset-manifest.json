@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reward-points-webapp/static/css/main.984b2baa.chunk.css",
+    "main.js": "/reward-points-webapp/static/js/main.4c7b471d.chunk.js",
+    "main.js.map": "/reward-points-webapp/static/js/main.4c7b471d.chunk.js.map",
+    "runtime~main.js": "/reward-points-webapp/static/js/runtime~main.4bb32da4.js",
+    "runtime~main.js.map": "/reward-points-webapp/static/js/runtime~main.4bb32da4.js.map",
+    "static/js/2.4167f18c.chunk.js": "/reward-points-webapp/static/js/2.4167f18c.chunk.js",
+    "static/js/2.4167f18c.chunk.js.map": "/reward-points-webapp/static/js/2.4167f18c.chunk.js.map",
+    "index.html": "/reward-points-webapp/index.html",
+    "precache-manifest.c533ce2fa1a55c451201ded9bbaeb6bf.js": "/reward-points-webapp/precache-manifest.c533ce2fa1a55c451201ded9bbaeb6bf.js",
+    "service-worker.js": "/reward-points-webapp/service-worker.js",
+    "static/css/main.984b2baa.chunk.css.map": "/reward-points-webapp/static/css/main.984b2baa.chunk.css.map"
+  }
+}
